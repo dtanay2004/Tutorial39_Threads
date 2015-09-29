@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tutorial39_Threads</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="tanaysTextTitle">Hello!</string>
+    <string name="tanaysButtonText">Click Me!</string>
+
+</resources>
